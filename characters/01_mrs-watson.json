@@ -431,15 +431,6 @@
         "bonusKnown": true
       },
       {
-        "id": "burning-hands",
-        "index": "burning-hands",
-        "name": "Burning Hands",
-        "source": "PHB",
-        "level": 1,
-        "classIndex": "sorcerer",
-        "castingAbility": "cha"
-      },
-      {
         "id": "charm-person",
         "index": "charm-person",
         "name": "Charm Person",
@@ -471,7 +462,6 @@
       }
     ],
     "prepared": [
-      "burning-hands",
       "charm-person",
       "arms-of-hadar",
       "dissonant-whispers"
