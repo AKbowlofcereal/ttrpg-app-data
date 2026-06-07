@@ -179,7 +179,21 @@
       "successes": 0,
       "failures": 0
     },
-    "conditions": []
+    "conditions": [],
+    "classAbilities": [
+      {
+        "name": "Rage",
+        "key": "class-rage",
+        "recharge": "LR",
+        "max": 2,
+        "used": 1
+      }
+    ],
+    "actionEconomy": {
+      "action": 1,
+      "bonusAction": 1,
+      "reaction": 1
+    }
   },
   "inventory": [
     {
