@@ -167,7 +167,12 @@
       "successes": 0,
       "failures": 0
     },
-    "conditions": []
+    "conditions": [],
+    "actionEconomy": {
+      "action": 1,
+      "bonusAction": 1,
+      "reaction": 0
+    }
   },
   "inventory": [
     {
