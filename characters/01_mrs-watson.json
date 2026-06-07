@@ -92,7 +92,10 @@
         "size": 753504,
         "uploadedAt": "2026-06-07T04:40:56.680Z"
       }
-    ]
+    ],
+    "personality": {
+      "traits": "M"
+    }
   },
   "stats": {
     "abilityScores": {
