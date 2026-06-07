@@ -111,7 +111,7 @@
       "cha": 18
     },
     "savingThrows": {
-      "con": false,
+      "con": true,
       "cha": {
         "proficient": true
       }
