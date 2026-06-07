@@ -33,7 +33,7 @@
     },
     "alignment": "Lawful Good",
     "xp": 0,
-    "portrait": null,
+    "portrait": "https://raw.githubusercontent.com/AKbowlofcereal/ttrpg-app-data/main/characters/01-kara-ironheart-images/1780804516710-1000040246.jpg?v=1780804516710",
     "size": "Medium",
     "languages": [
       "common",
@@ -97,6 +97,17 @@
         "index": "dwarven-armor-training",
         "name": "Dwarven Armor Training",
         "source": "PHB"
+      }
+    ],
+    "images": [
+      {
+        "id": "1780804516710",
+        "name": "1000040246.jpg",
+        "path": "characters/01-kara-ironheart-images/1780804516710-1000040246.jpg",
+        "url": "https://raw.githubusercontent.com/AKbowlofcereal/ttrpg-app-data/main/characters/01-kara-ironheart-images/1780804516710-1000040246.jpg?v=1780804516710",
+        "type": "image/jpeg",
+        "size": 543785,
+        "uploadedAt": "2026-06-07T03:55:16.710Z"
       }
     ]
   },
