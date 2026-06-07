@@ -242,7 +242,7 @@
     },
     {
       "itemId": "2a133d91-ff9f-48fc-96dd-5b824660a5cf",
-      "equipped": false,
+      "equipped": true,
       "index": "javelin",
       "name": "Javelin",
       "source": "PHB",
