@@ -461,7 +461,9 @@
         "level": 1
       }
     ],
-    "prepared": [],
+    "prepared": [
+      "dissonant-whispers"
+    ],
     "concentration": null
   },
   "customContent": {
