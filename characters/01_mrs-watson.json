@@ -328,13 +328,13 @@
     },
     {
       "itemId": "6d9d940c-6cd4-4e86-b433-bb83130c4887",
-      "index": "custom-025f5f3b-739f-40e4-96f8-7b77d8f0f39e",
-      "name": "Knitting Needles",
+      "index": "blowgun-needle",
+      "name": "Knitting Needle",
       "type": "Gear",
       "quantity": 1,
+      "weight": 0.02,
       "description": "Arcane focus",
-      "equipped": true,
-      "custom": true
+      "equipped": true
     }
   ],
   "feats": [],
