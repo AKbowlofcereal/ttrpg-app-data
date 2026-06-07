@@ -329,6 +329,21 @@
       "quantity": 1,
       "description": "My son Kellen's first attempt at Dwarven forging",
       "equipped": false
+    },
+    {
+      "itemId": "be662d6b-fde5-457e-80cc-db911ba85f8d",
+      "index": "smiths-tools",
+      "name": "Smith's Tools",
+      "source": "PHB",
+      "quantity": 1,
+      "equipped": false,
+      "equipment_category": {
+        "index": "adventuring-gear",
+        "name": "Adventuring Gear"
+      },
+      "equipment_category_index": "adventuring-gear",
+      "weight": 8,
+      "description": "Smith's tools allow you to work metal, heating it to alter its shape, repair damage, or work raw ingots into useful items. Smith's tools include hammers, tongs, charcoal, rags, and a whetstone. Your expertise lends you additional insight when examining metal objects, such as weapons. You can spot clues and make deductions that others might overlook when an investigation involves armor, weapons, or other metalwork. With access to your tools and an open flame hot enough to make metal pliable, you can restore 10 hit points to a damaged metal object for each hour of work."
     }
   ],
   "feats": [],
