@@ -325,6 +325,15 @@
       "containsValue": 500,
       "groupIndex": 0,
       "choiceId": "0_0"
+    },
+    {
+      "itemId": "61df468c-262c-4f58-88be-fc9622f48974",
+      "index": "custom-243e7ade-98ff-4820-8158-8048838c5c97",
+      "name": "Crochet Needle",
+      "type": "Gear",
+      "quantity": 1,
+      "equipped": false,
+      "custom": true
     }
   ],
   "feats": [],
