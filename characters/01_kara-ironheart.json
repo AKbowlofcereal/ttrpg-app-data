@@ -316,13 +316,12 @@
     },
     {
       "itemId": "56d5bcf9-afc5-41e9-8827-93b3e0899e33",
-      "equipped": false,
       "index": "totemic-token",
       "name": "totemic token",
+      "type": "Gear",
       "quantity": 1,
-      "custom": true,
-      "groupIndex": 1,
-      "choiceId": "1_0"
+      "description": "My son Kellen's first attempt at Dwarven forging",
+      "equipped": false
     }
   ],
   "feats": [],
