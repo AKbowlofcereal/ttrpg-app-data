@@ -554,6 +554,12 @@
     "levellingSystem": "xp",
     "multiclassing": "enabled",
     "encumbranceTracking": false,
-    "milestoneMode": false
+    "milestoneMode": false,
+    "inventoryLabels": [
+      {
+        "id": "972004b8-ee9f-4e42-aa85-0e23cdab651b",
+        "name": "Focus"
+      }
+    ]
   }
 }
