@@ -454,6 +454,13 @@
         "name": "Frostbite",
         "source": "XGE",
         "level": 0
+      },
+      {
+        "id": "djglg48jis",
+        "index": "tashas-caustic-brew",
+        "name": "Tasha's Caustic Brew",
+        "source": "TCE",
+        "level": 1
       }
     ],
     "prepared": [
