@@ -325,24 +325,6 @@
       "containsValue": 500,
       "groupIndex": 0,
       "choiceId": "0_0"
-    },
-    {
-      "itemId": "6d9d940c-6cd4-4e86-b433-bb83130c4887",
-      "index": "blowgun-needle",
-      "name": "Blowgun Needle",
-      "type": "Gear",
-      "quantity": 1,
-      "weight": 0.02,
-      "description": "Arcane focus",
-      "equipped": false,
-      "isAmmo": true,
-      "ammoKind": "needle",
-      "equipment_category": {
-        "index": "ammunition",
-        "name": "Ammunition"
-      },
-      "equipment_category_index": "ammunition",
-      "attuned": false
     }
   ],
   "feats": [],
