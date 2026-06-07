@@ -232,7 +232,13 @@
       "name": "explorer's pack",
       "quantity": 1,
       "groupIndex": 2,
-      "choiceId": "2_0"
+      "choiceId": "2_0",
+      "equipment_category": {
+        "index": "adventuring-gear",
+        "name": "Adventuring Gear"
+      },
+      "equipment_category_index": "adventuring-gear",
+      "weight": 59
     },
     {
       "itemId": "2a133d91-ff9f-48fc-96dd-5b824660a5cf",
@@ -266,7 +272,13 @@
       "source": "PHB",
       "quantity": 1,
       "groupIndex": 0,
-      "choiceId": "0_0"
+      "choiceId": "0_0",
+      "equipment_category": {
+        "index": "adventuring-gear",
+        "name": "Adventuring Gear"
+      },
+      "equipment_category_index": "adventuring-gear",
+      "weight": 25
     },
     {
       "itemId": "6b8b7709-998a-454f-a629-b3ac7aed0c91",
@@ -276,7 +288,13 @@
       "source": "PHB",
       "quantity": 1,
       "groupIndex": 0,
-      "choiceId": "0_0"
+      "choiceId": "0_0",
+      "equipment_category": {
+        "index": "adventuring-gear",
+        "name": "Adventuring Gear"
+      },
+      "equipment_category_index": "adventuring-gear",
+      "weight": 4
     },
     {
       "itemId": "8a6677b4-1556-40d7-a7a5-8c6b87d3f69e",
@@ -287,7 +305,13 @@
       "quantity": 1,
       "containsValue": 1000,
       "groupIndex": 0,
-      "choiceId": "0_0"
+      "choiceId": "0_0",
+      "equipment_category": {
+        "index": "adventuring-gear",
+        "name": "Adventuring Gear"
+      },
+      "equipment_category_index": "adventuring-gear",
+      "weight": 1
     },
     {
       "itemId": "56d5bcf9-afc5-41e9-8827-93b3e0899e33",
