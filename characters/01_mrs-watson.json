@@ -171,8 +171,9 @@
     "actionEconomy": {
       "action": 1,
       "bonusAction": 1,
-      "reaction": 0
-    }
+      "reaction": 1
+    },
+    "classAbilities": []
   },
   "inventory": [
     {
