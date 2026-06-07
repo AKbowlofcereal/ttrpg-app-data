@@ -342,15 +342,6 @@
       },
       "equipment_category_index": "ammunition",
       "inventoryLabelId": "972004b8-ee9f-4e42-aa85-0e23cdab651b"
-    },
-    {
-      "itemId": "1c21e521-43d9-4eef-9507-3d16f93ba5f7",
-      "index": "custom-d4438748-ddf3-41c1-b834-0f0201715489",
-      "name": "KnittingNeedle",
-      "type": "Magic Item",
-      "quantity": 1,
-      "equipped": true,
-      "custom": true
     }
   ],
   "feats": [],
