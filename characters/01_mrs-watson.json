@@ -398,15 +398,6 @@
         "castingAbility": "cha"
       },
       {
-        "id": "fire-bolt",
-        "index": "fire-bolt",
-        "name": "Fire Bolt",
-        "source": "PHB",
-        "level": 0,
-        "classIndex": "sorcerer",
-        "castingAbility": "cha"
-      },
-      {
         "id": "mind-sliver-tce-c",
         "index": "mind-sliver-tce-c",
         "name": "Mind Sliver Tce C",
