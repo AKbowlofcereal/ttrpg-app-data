@@ -133,7 +133,8 @@
       },
       "insight": {
         "proficient": true
-      }
+      },
+      "survival": 1
     },
     "proficiencies": {
       "Armour": [],
