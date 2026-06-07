@@ -144,7 +144,8 @@
       },
       "survival": {
         "proficient": true
-      }
+      },
+      "intimidation": 1
     },
     "proficiencies": {
       "Armour": [
