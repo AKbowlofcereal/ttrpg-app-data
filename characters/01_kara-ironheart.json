@@ -1,0 +1,412 @@
+{
+  "meta": {
+    "owner": "github:AKbowlofcereal",
+    "characterId": "951c6aaf-6b49-4bff-a38f-5c92e8b278ed",
+    "copiedFrom": null,
+    "system": "dnd5e-2014",
+    "rulesEdition": "2014",
+    "version": 1,
+    "lastUpdated": "2026-06-07T03:53:36.222Z"
+  },
+  "identity": {
+    "name": "Kara Ironheart",
+    "race": "Dwarf",
+    "raceIndex": "dwarf",
+    "subrace": "Mountain",
+    "subraceIndex": "dwarf-mountain",
+    "class": [
+      {
+        "name": "Barbarian",
+        "index": "barbarian",
+        "source": "PHB",
+        "level": 1,
+        "subclass": null
+      }
+    ],
+    "background": "Uthgardt Tribe Member",
+    "backgroundIndex": "uthgardt-tribe-member",
+    "backgroundFeature": {
+      "name": "Uthgardt Heritage",
+      "desc": [
+        "You have an excellent knowledge of not only your tribe's territory, but also the terrain and natural resources of the rest of the North. You are familiar enough with any wilderness area that you can find twice as much food and water as you normally would when you forage there. Additionally, you can call upon the hospitality of your people, and those allied with your tribe, often including members of the druid circles, tribes of nomadic elves, the Harpers, and the priesthoods devoted to the gods of the First Circle."
+      ]
+    },
+    "alignment": "Lawful Good",
+    "xp": 0,
+    "portrait": null,
+    "size": "Medium",
+    "languages": [
+      "common",
+      "dwarvish"
+    ],
+    "racialOptions": {
+      "racialTools": [
+        {
+          "index": "smiths-tools",
+          "name": "smith's tools"
+        }
+      ]
+    },
+    "racialTraits": [
+      {
+        "index": "age",
+        "name": "Age",
+        "source": "PHB"
+      },
+      {
+        "index": "size",
+        "name": "Size",
+        "source": "PHB"
+      },
+      {
+        "index": "speed",
+        "name": "Speed",
+        "source": "PHB"
+      },
+      {
+        "index": "darkvision",
+        "name": "Darkvision",
+        "source": "PHB"
+      },
+      {
+        "index": "dwarven-resilience",
+        "name": "Dwarven Resilience",
+        "source": "PHB"
+      },
+      {
+        "index": "dwarven-combat-training",
+        "name": "Dwarven Combat Training",
+        "source": "PHB"
+      },
+      {
+        "index": "tool-proficiency",
+        "name": "Tool Proficiency",
+        "source": "PHB"
+      },
+      {
+        "index": "stonecunning",
+        "name": "Stonecunning",
+        "source": "PHB"
+      },
+      {
+        "index": "languages",
+        "name": "Languages",
+        "source": "PHB"
+      },
+      {
+        "index": "dwarven-armor-training",
+        "name": "Dwarven Armor Training",
+        "source": "PHB"
+      }
+    ]
+  },
+  "stats": {
+    "abilityScores": {
+      "str": 20,
+      "dex": 8,
+      "con": 19,
+      "int": 8,
+      "wis": 14,
+      "cha": 16
+    },
+    "savingThrows": {
+      "str": {
+        "proficient": true
+      },
+      "con": {
+        "proficient": true
+      }
+    },
+    "skills": {
+      "animalHandling": {
+        "proficient": true
+      },
+      "athletics": {
+        "proficient": true
+      },
+      "survival": {
+        "proficient": true
+      }
+    },
+    "proficiencies": {
+      "Armour": [
+        "light armor proficiency",
+        "medium armor proficiency",
+        "shield armor proficiency"
+      ],
+      "Weapons": [
+        "simple weapon proficiency",
+        "martial weapon proficiency"
+      ],
+      "Tools": [
+        "smith's tools",
+        "Cook's utensils"
+      ],
+      "Languages": [
+        "common",
+        "dwarvish"
+      ]
+    },
+    "damageResistances": []
+  },
+  "combat": {
+    "hpMax": 16,
+    "hpCurrent": 16,
+    "hpTemp": 0,
+    "ac": 13,
+    "initiative": 0,
+    "speed": 25,
+    "deathSaves": {
+      "successes": 0,
+      "failures": 0
+    },
+    "conditions": []
+  },
+  "inventory": [
+    {
+      "itemId": "c54cde4d-5455-4a35-a5ce-e1f2091d918a",
+      "equipped": true,
+      "index": "greataxe",
+      "name": "Greataxe",
+      "source": "PHB",
+      "quantity": 1,
+      "equipment_category": {
+        "index": "melee-weapon",
+        "name": "Melee Weapon"
+      },
+      "equipment_category_index": "melee-weapon",
+      "weapon_category": "Martial",
+      "weapon_range": "Melee",
+      "properties": [
+        "Heavy",
+        "Two-Handed"
+      ],
+      "weight": 7,
+      "damage": {
+        "dice": "1d12",
+        "type": "slashing"
+      },
+      "description": ""
+    },
+    {
+      "itemId": "745b27cf-4d50-4877-b888-72f3a05846bd",
+      "equipped": true,
+      "index": "handaxe",
+      "name": "Handaxe",
+      "source": "PHB",
+      "quantity": 2,
+      "equipment_category": {
+        "index": "melee-weapon",
+        "name": "Melee Weapon"
+      },
+      "equipment_category_index": "melee-weapon",
+      "weapon_category": "Simple",
+      "weapon_range": "Melee",
+      "properties": [
+        "Light",
+        "Thrown"
+      ],
+      "weight": 2,
+      "damage": {
+        "dice": "1d6",
+        "type": "slashing"
+      },
+      "description": ""
+    },
+    {
+      "itemId": "22089edb-af90-47d6-a341-ca8ecd74c366",
+      "equipped": false,
+      "index": "explorers-pack",
+      "name": "explorer's pack",
+      "quantity": 1,
+      "groupIndex": 2,
+      "choiceId": "2_0"
+    },
+    {
+      "itemId": "2a133d91-ff9f-48fc-96dd-5b824660a5cf",
+      "equipped": true,
+      "index": "javelin",
+      "name": "Javelin",
+      "source": "PHB",
+      "quantity": 4,
+      "equipment_category": {
+        "index": "melee-weapon",
+        "name": "Melee Weapon"
+      },
+      "equipment_category_index": "melee-weapon",
+      "weapon_category": "Simple",
+      "weapon_range": "Melee",
+      "properties": [
+        "Thrown"
+      ],
+      "weight": 2,
+      "damage": {
+        "dice": "1d6",
+        "type": "piercing"
+      },
+      "description": ""
+    },
+    {
+      "itemId": "61b4ca9c-7b3d-47b5-a445-9eaf83019b5c",
+      "equipped": false,
+      "index": "hunting-trap",
+      "name": "hunting trap",
+      "source": "PHB",
+      "quantity": 1,
+      "groupIndex": 0,
+      "choiceId": "0_0"
+    },
+    {
+      "itemId": "6b8b7709-998a-454f-a629-b3ac7aed0c91",
+      "equipped": false,
+      "index": "travelers-clothes",
+      "name": "traveler's clothes",
+      "source": "PHB",
+      "quantity": 1,
+      "groupIndex": 0,
+      "choiceId": "0_0"
+    },
+    {
+      "itemId": "8a6677b4-1556-40d7-a7a5-8c6b87d3f69e",
+      "equipped": false,
+      "index": "pouch",
+      "name": "pouch",
+      "source": "PHB",
+      "quantity": 1,
+      "containsValue": 1000,
+      "groupIndex": 0,
+      "choiceId": "0_0"
+    },
+    {
+      "itemId": "56d5bcf9-afc5-41e9-8827-93b3e0899e33",
+      "equipped": false,
+      "index": "totemic-token",
+      "name": "totemic token",
+      "quantity": 1,
+      "custom": true,
+      "groupIndex": 1,
+      "choiceId": "1_0"
+    }
+  ],
+  "feats": [],
+  "racialTraits": [
+    {
+      "index": "age",
+      "name": "Age",
+      "source": "PHB"
+    },
+    {
+      "index": "size",
+      "name": "Size",
+      "source": "PHB"
+    },
+    {
+      "index": "speed",
+      "name": "Speed",
+      "source": "PHB"
+    },
+    {
+      "index": "darkvision",
+      "name": "Darkvision",
+      "source": "PHB"
+    },
+    {
+      "index": "dwarven-resilience",
+      "name": "Dwarven Resilience",
+      "source": "PHB"
+    },
+    {
+      "index": "dwarven-combat-training",
+      "name": "Dwarven Combat Training",
+      "source": "PHB"
+    },
+    {
+      "index": "tool-proficiency",
+      "name": "Tool Proficiency",
+      "source": "PHB"
+    },
+    {
+      "index": "stonecunning",
+      "name": "Stonecunning",
+      "source": "PHB"
+    },
+    {
+      "index": "languages",
+      "name": "Languages",
+      "source": "PHB"
+    },
+    {
+      "index": "dwarven-armor-training",
+      "name": "Dwarven Armor Training",
+      "source": "PHB"
+    }
+  ],
+  "spells": {
+    "spellcastingAbility": null,
+    "slots": {},
+    "pactSlots": {},
+    "known": [],
+    "prepared": [],
+    "concentration": null
+  },
+  "customContent": {
+    "classFeatures": [
+      {
+        "index": "barbarian-1-rage",
+        "name": "Rage",
+        "source": "PHB",
+        "desc": [
+          "In battle, you fight with primal ferocity. On your turn, you can enter a rage as a bonus action. While raging, you gain the following benefits if you aren't wearing heavy armor: You have advantage on Strength checks and Strength saving throws. When you make a melee weapon attack using Strength, you gain a +2 bonus to the damage roll. This bonus increases as you level. You have resistance to bludgeoning, piercing, and slashing damage. If you are able to cast spells, you can't cast them or concentrate on them while raging. Your rage lasts for 1 minute. It ends early if you are knocked unconscious or if your turn ends and you haven't attacked a hostile creature since your last turn or taken damage since then. You can also end your rage on your turn as a bonus action. Once you have raged the maximum number of times for your barbarian level, you must finish a long rest before you can rage again. You may rage 2 times at 1st level, 3 at 3rd, 4 at 6th, 5 at 12th, and 6 at 17th."
+        ],
+        "classIndex": "barbarian",
+        "className": "Barbarian",
+        "gainedAtLevel": 1
+      },
+      {
+        "index": "barbarian-1-unarmored-defense",
+        "name": "Unarmored Defense",
+        "source": "PHB",
+        "desc": [
+          "While you are not wearing any armor, your Armor Class equals 10 + your Dexterity modifier + your Constitution modifier. You can use a shield and still gain this benefit."
+        ],
+        "classIndex": "barbarian",
+        "className": "Barbarian",
+        "gainedAtLevel": 1
+      }
+    ],
+    "classFeatureChoices": [],
+    "backgroundFeature": {
+      "name": "Uthgardt Heritage",
+      "desc": [
+        "You have an excellent knowledge of not only your tribe's territory, but also the terrain and natural resources of the rest of the North. You are familiar enough with any wilderness area that you can find twice as much food and water as you normally would when you forage there. Additionally, you can call upon the hospitality of your people, and those allied with your tribe, often including members of the druid circles, tribes of nomadic elves, the Harpers, and the priesthoods devoted to the gods of the First Circle."
+      ]
+    }
+  },
+  "notes": {
+    "personalityTraits": "",
+    "ideals": "",
+    "bonds": "",
+    "flaws": "",
+    "appearance": "",
+    "backstory": "",
+    "alliesAndOrganisations": "",
+    "general": ""
+  },
+  "settings": {
+    "rulesEdition": "2014",
+    "encumbranceMode": "disabled",
+    "attunementLimit": 3,
+    "spellComponents": "all",
+    "concentrationMode": "raw",
+    "cantripScaling": "character",
+    "hitDiceRecovery": "all",
+    "longRestHpRecovery": "full",
+    "longRestDuration": "8h",
+    "shortRestDuration": "1h",
+    "shortRestsPerLongRest": 2,
+    "levellingSystem": "xp",
+    "multiclassing": "enabled",
+    "encumbranceTracking": false,
+    "milestoneMode": false
+  }
+}
