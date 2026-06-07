@@ -456,6 +456,13 @@
         "level": 1,
         "classIndex": "sorcerer",
         "castingAbility": "cha"
+      },
+      {
+        "id": "1bea7241n6y",
+        "index": "frostbite",
+        "name": "Frostbite",
+        "source": "XGE",
+        "level": 0
       }
     ],
     "prepared": [
