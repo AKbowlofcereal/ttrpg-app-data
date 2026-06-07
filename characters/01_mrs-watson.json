@@ -328,12 +328,12 @@
     },
     {
       "itemId": "cb1c3e69-c385-4f27-8daa-b758aa8a431e",
-      "index": "custom-5bd87229-2364-4e81-ba43-aba8ecb836f2",
-      "name": "Knitting Needle",
+      "index": "blowgun-needle",
+      "name": "Knitting_Needle",
       "type": "Gear",
       "quantity": 1,
-      "equipped": true,
-      "custom": true
+      "weight": 0.02,
+      "equipped": true
     }
   ],
   "feats": [],
