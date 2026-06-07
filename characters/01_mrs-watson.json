@@ -461,6 +461,13 @@
         "name": "Tasha's Caustic Brew",
         "source": "TCE",
         "level": 1
+      },
+      {
+        "id": "k3l2ow6pix",
+        "index": "chaos-bolt",
+        "name": "Chaos Bolt",
+        "source": "XGE",
+        "level": 1
       }
     ],
     "prepared": [
