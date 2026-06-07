@@ -165,7 +165,7 @@
     "hpMax": 16,
     "hpCurrent": 16,
     "hpTemp": 0,
-    "ac": 13,
+    "ac": 9,
     "initiative": 0,
     "speed": 25,
     "deathSaves": {
@@ -242,7 +242,7 @@
     },
     {
       "itemId": "2a133d91-ff9f-48fc-96dd-5b824660a5cf",
-      "equipped": true,
+      "equipped": false,
       "index": "javelin",
       "name": "Javelin",
       "source": "PHB",
@@ -262,7 +262,8 @@
         "dice": "1d6",
         "type": "piercing"
       },
-      "description": ""
+      "description": "",
+      "attuned": false
     },
     {
       "itemId": "61b4ca9c-7b3d-47b5-a445-9eaf83019b5c",
